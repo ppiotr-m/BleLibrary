@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">BleLibrary</string>
+    <string name="action_settings">Settings</string>
+    <string name="delayed">Delayed</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="status_not_set">You need to set the status before starting broadcast.</string>
+    <string name="does_not_support_ble">Device does not support Bluetooth LE.</string>
+    <string name="bt_not_enabled">Bluetooth is not enabled.</string>
+    <string name="init_fail">Bluetooth adapter initialization has failed.</string>
+    <string name="cant_start_scan">Bluetooth adapter initialization has failed.
+        Scan cannot be performed</string>
+    <string name="scan_in_progress">Scanning has already started.</string>
+    <string name="scan_stopped">Scanning has stopped.</string>
+    <string name="scan_fail">Scanning has failed. Error code:</string>
+    <string name="advertiser">Advertiser</string>
+    <string name="scanner">Scanner</string>
+    <string name="advertise">Advertise</string>
+    <string name="stop_advertising">Stop advertising</string>
+    <string name="start_scan">Start scanning</string>
+    <string name="stop_scanning">Stop scanning</string>
+    <string name="default_scan_callback_msg">Scanner results received.</string>
+    <string name="default_scan_callback_msg_null_record">Null scan record received.</string>
+    <string name="default_scan_callback_msg_null_result">Null scan result received.</string>
+</resources>
