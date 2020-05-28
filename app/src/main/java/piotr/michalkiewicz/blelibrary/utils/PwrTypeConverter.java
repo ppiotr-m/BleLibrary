@@ -13,7 +13,7 @@ import java.nio.ByteBuffer;
 import java.nio.ByteOrder;
 import java.util.Arrays;
 
-/*  This class implements static type converters. */
+/**  This class implements static type converters. */
 public final class PwrTypeConverter {
 
     // Byte array to int conversion

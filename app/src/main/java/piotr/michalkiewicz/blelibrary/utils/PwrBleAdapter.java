@@ -13,7 +13,6 @@ import android.content.Context;
 import android.content.Intent;
 import android.content.pm.PackageManager;
 
-
 /*  This class initlizes Android's BluetoothAdapter and checks for required permissions.
     It stores calling Activity reference so it's object can interact with GUI.
  */
@@ -21,7 +20,6 @@ public class PwrBleAdapter {
 
     private BluetoothAdapter mBluetoothAdapter;
     private Activity mActivity;
-
 
     private boolean checkIfDeviceSupportsBLE() {
         if(mActivity!=null) {

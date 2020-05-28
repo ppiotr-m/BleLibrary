@@ -8,7 +8,9 @@ autor: Piotr Michałkiewicz
 
 import java.util.UUID;
 
-// This class contains all global constants used in this library.
+/** This class contains all global constants used in this library.
+ *
+ */
 public final class PwrConstants {
 
     public final static String TAG = "PwrBleLibarary";
